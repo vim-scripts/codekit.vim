@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5095
+
+CodeKit.vim provides support for controlling CodeKit 2 from Vim. It uses
+CodeKit's AppleScript interface to provide the following features:
+
+* Add the current project to CodeKit
+* Switch to the current file's project
+* Preview the current project in a browser
+* Pause and unpause CodeKit's watching of project files
+
+See `:help codekit` for a list of the provided commands.
+
+Git repository and issue tracker available at: https://github.com/noahfrederick/vim-codekit
